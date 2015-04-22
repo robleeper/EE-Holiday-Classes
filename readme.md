@@ -5,8 +5,9 @@ Holiday Class is a plugin for ExpressionEngine 2 that helps you generate CSS cla
 ## Installation
 
 1. Download Holiday Class
-2. Copy the holiday_class directory to the /system/expressionengine/third_party/ directory.
-3. Done!
+2. Extract the .zip file
+3. Copy the holiday_class directory to the /system/expressionengine/third_party/ directory.
+4. Done!
 
 ## Usage
 
