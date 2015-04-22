@@ -15,7 +15,8 @@ $plugin_info = array(
  * you retain this header information and any credits to other sources
  * throughout the file. If you make any modifications or improvements,
  * please send them via email to Robert Leeper <robert@robleeper.com>
- * or contribute on Github.
+ * or contribute on Github at 
+ * <https://github.com/robleeper/EE-Holiday-Classes>.
  * ------------------------------------------------------------------------
  * Based in large part on...
  * US Holiday Calculations in PHP
