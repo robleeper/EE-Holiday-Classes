@@ -1,4 +1,7 @@
-# Holiday Class
+# DEPRECATED
+This addon is not being maintained.
+
+## Holiday Class
 
 Holiday Class is a plugin for ExpressionEngine 2 that helps you generate CSS classes to make site elements responsive to holidays. On an average day, the plugin will output “standard”. If the plugin detects a holiday, a CSS short name for the holiday will be generated.
 
