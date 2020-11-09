@@ -1,5 +1,5 @@
 # DEPRECATED
-This addon is not being maintained.
+This addon is not being maintained. I haven't had much use for it for quite some time and it seems like nobody else has either.
 
 ## Holiday Class
 
